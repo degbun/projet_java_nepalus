@@ -1,0 +1,124 @@
+Liste des partis avec le plus mauvais score par département :
+Bingerville : ANCI
+Danané : ANCI
+Grand-Bassam : ANCI
+Odienné : MFA
+Bondoukou : RDC
+Man : UDPCI
+Daloa : MFA
+Toumodi : ANCI
+Sassandra : MFA
+Tanda : ANCI
+Agboville : ANCI
+Bonoua : ANCI
+Bouaké : ANCI
+Dimbokro : ANCI
+Dabou : ANCI
+Tiassalé : ANCI
+Anyama : ANCI
+Gagnoa : ANCI
+Korhogo : ANCI
+Ferkessédougou : ANCI
+San-Pédro : UDPCI
+Séguéla : MFA
+Abidjan : MFA
+Soubré : UDPCI
+Bongouanou : ANCI
+Yamoussoukro : UDPCI
+Abengourou : ANCI
+Issia : UDPCI
+Boundiali : ANCI
+Aboisso : MFA
+---------------------------------------------------------------------------------------
+
+Le taux de participation général est : 57%
+---------------------------------------------------------------------------------------
+
+Liste des partis vainqueur par département :
+Bingerville : PDCI
+Danané : UDPCI
+Grand-Bassam : UDPCI
+Odienné : PDCI
+Bondoukou : UDPCI
+Man : PDCI
+Daloa : PDCI
+Toumodi : RDC
+Sassandra : UDPCI
+Tanda : RDC
+Agboville : PDCI
+Bonoua : RDC
+Bouaké : PDCI
+Dimbokro : RDC
+Dabou : PDCI
+Tiassalé : MFA
+Anyama : PDCI
+Gagnoa : PDCI
+Korhogo : RDC
+Ferkessédougou : PDCI
+San-Pédro : MFA
+Séguéla : PDCI
+Abidjan : PDCI
+Soubré : PDCI
+Bongouanou : PDCI
+Yamoussoukro : PDCI
+Abengourou : UDPCI
+Issia : PDCI
+Boundiali : PDCI
+Aboisso : RDC
+---------------------------------------------------------------------------------------
+
+Taux de participation par département :
+Taux de participation du département Abidjan : 37%
+Taux de participation du département Yamoussoukro : 98%
+Taux de participation du département Bouaké : 2%
+Taux de participation du département San-Pédro : 28%
+Taux de participation du département Korhogo : 39%
+Taux de participation du département Daloa : 81%
+Taux de participation du département Man : 94%
+Taux de participation du département Gagnoa : 38%
+Taux de participation du département Abengourou : 95%
+Taux de participation du département Boundiali : 49%
+Taux de participation du département Sassandra : 81%
+Taux de participation du département Odienné : 14%
+Taux de participation du département Dimbokro : 70%
+Taux de participation du département Séguéla : 24%
+Taux de participation du département Aboisso : 29%
+Taux de participation du département Anyama : 14%
+Taux de participation du département Tanda : 18%
+Taux de participation du département Ferkessédougou : 76%
+Taux de participation du département Soubré : 93%
+Taux de participation du département Agboville : 21%
+Taux de participation du département Bingerville : 96%
+Taux de participation du département Bondoukou : 79%
+Taux de participation du département Dabou : 83%
+Taux de participation du département Grand-Bassam : 67%
+Taux de participation du département Tiassalé : 53%
+Taux de participation du département Toumodi : 92%
+Taux de participation du département Danané : 60%
+Taux de participation du département Bongouanou : 68%
+Taux de participation du département Bonoua : 34%
+Taux de participation du département Issia : 82%
+---------------------------------------------------------------------------------------
+
+Liste des départements où plus de 50% ont voté :
+21-Bingerville
+27-Danané
+24-Grand-Bassam
+22-Bondoukou
+7-Man
+6-Daloa
+26-Toumodi
+11-Sassandra
+13-Dimbokro
+23-Dabou
+25-Tiassalé
+18-Ferkessédougou
+19-Soubré
+28-Bongouanou
+2-Yamoussoukro
+9-Abengourou
+30-Issia
+---------------------------------------------------------------------------------------
+
+Liste des départements avec un seul parti ayant tous les votes :
+
